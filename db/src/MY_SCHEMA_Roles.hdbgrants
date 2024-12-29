@@ -1,0 +1,18 @@
+{
+    "demoa": {
+        "object_owner": {
+            "global_roles": [
+                {
+                    "roles": ["rolea"]
+                }
+            ]
+        },
+        "application_user": {
+            "global_roles": [
+                {
+                    "roles": ["rolea"]
+                }
+            ]
+        }
+    }
+}

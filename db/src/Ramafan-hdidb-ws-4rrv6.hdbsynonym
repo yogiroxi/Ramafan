@@ -1,0 +1,8 @@
+{
+  "hsp::MY_TABLE": {
+    "target": {
+      "object": "MY_TABLE",
+      "schema": "MY_SCHEMA"
+    }
+  }
+}
